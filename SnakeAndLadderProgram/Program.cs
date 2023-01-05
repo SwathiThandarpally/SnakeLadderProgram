@@ -29,6 +29,9 @@
             ReportNumTimes uC_6reportnumTimes = new ReportNumTimes();
             uC_6reportnumTimes.Report();
             Console.WriteLine("---------------------------------------");
+            //UC_7
+            WithTwoPlayers uC_7withTwoPlayers = new WithTwoPlayers();
+            uC_7withTwoPlayers.TwoPlayer();
         }
     }
 }
