@@ -56,6 +56,9 @@ namespace SnakeAndLadderProgram
                         }
                         break;
                 }
+                Console.WriteLine("You are the Final Position Is:" + position);
+                Console.ReadLine();
             }
         }
+    }
 }
