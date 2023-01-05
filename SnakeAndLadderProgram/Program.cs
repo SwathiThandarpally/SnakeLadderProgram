@@ -17,6 +17,10 @@
             CheckPosition uC_3checkposition = new CheckPosition();
             uC_3checkposition.Moves();
             Console.WriteLine("---------------------------------------");
+            //UC_4
+            RepeatTill100 uC_4RepeatTill100 = new RepeatTill100();
+            uC_4RepeatTill100.Repeat();
+            Console.WriteLine("---------------------------------------");
         }
     }
 }
