@@ -25,6 +25,10 @@
             PlayerPositionis100 uC_5playerposition = new PlayerPositionis100();
             uC_5playerposition.Winning();
             Console.WriteLine("---------------------------------------");
+            //UC_6
+            ReportNumTimes uC_6reportnumTimes = new ReportNumTimes();
+            uC_6reportnumTimes.Report();
+            Console.WriteLine("---------------------------------------");
         }
     }
 }
