@@ -21,6 +21,10 @@
             RepeatTill100 uC_4RepeatTill100 = new RepeatTill100();
             uC_4RepeatTill100.Repeat();
             Console.WriteLine("---------------------------------------");
+            //UC_5
+            PlayerPositionis100 uC_5playerposition = new PlayerPositionis100();
+            uC_5playerposition.Winning();
+            Console.WriteLine("---------------------------------------");
         }
     }
 }
